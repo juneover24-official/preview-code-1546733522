@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-25T06:18:35+00:00",
+  "updated_at": "2026-06-25T22:49:19+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -122,6 +122,12 @@
       "file": "RUAの1黑暗童话脆.bds",
       "thumb": "RUAの1黑暗童话脆.bds_py_26_light_thumb.png",
       "full": "RUAの1黑暗童话脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの领养三花猫融合",
+      "file": "RUAの领养三花猫融合.bdi",
+      "thumb": "RUAの领养三花猫融合.bdi_py_26_light_thumb.png",
+      "full": "RUAの领养三花猫融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
