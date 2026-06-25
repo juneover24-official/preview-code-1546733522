@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-25T01:13:10+00:00",
+  "updated_at": "2026-06-25T03:31:18+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -104,6 +104,12 @@
       "file": "RUAの芋泥麻薯盒子.bds",
       "thumb": "RUAの芋泥麻薯盒子.bds_py_26_light_thumb.png",
       "full": "RUAの芋泥麻薯盒子.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "RUAの进入童话副本更新.bds",
+      "thumb": "RUAの进入童话副本更新.bds_py_26_light_thumb.png",
+      "full": "RUAの进入童话副本更新.bds_py_26_light_thumb.png"
     }
   ]
 }
