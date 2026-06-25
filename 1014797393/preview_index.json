@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-25T01:11:46+00:00",
+  "updated_at": "2026-06-25T01:12:29+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -92,6 +92,12 @@
       "file": "RUAの芋泥麻薯盒子融合.bdi",
       "thumb": "RUAの芋泥麻薯盒子融合.bdi_py_26_light_thumb.png",
       "full": "RUAの芋泥麻薯盒子融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの芋泥麻薯盒子",
+      "file": "RUAの芋泥麻薯盒子.bdi",
+      "thumb": "RUAの芋泥麻薯盒子.bdi_py_26_light_thumb.png",
+      "full": "RUAの芋泥麻薯盒子.bdi_py_26_light_thumb.png"
     }
   ]
 }
