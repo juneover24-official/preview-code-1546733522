@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-25T22:50:02+00:00",
+  "updated_at": "2026-06-26T08:27:38+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -140,6 +140,12 @@
       "file": "RUAの领养三花猫.bds",
       "thumb": "RUAの领养三花猫.bds_py_26_light_thumb.png",
       "full": "RUAの领养三花猫.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの树莓果酪",
+      "file": "RUAの树莓果酪更新_compressed.bds",
+      "thumb": "RUAの树莓果酪更新_compressed.bds_py_26_light_thumb.png",
+      "full": "RUAの树莓果酪更新_compressed.bds_py_26_light_thumb.png"
     }
   ]
 }
