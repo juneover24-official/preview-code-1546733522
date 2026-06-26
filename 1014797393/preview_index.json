@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-26T08:39:55+00:00",
+  "updated_at": "2026-06-26T08:40:47+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -188,6 +188,12 @@
       "file": "RUAの梦核星球1.bdi",
       "thumb": "RUAの梦核星球1.bdi_py_26_light_thumb.png",
       "full": "RUAの梦核星球1.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの樱花糯米丸子融合1",
+      "file": "RUAの樱花糯米丸子融合1.bdi",
+      "thumb": "RUAの樱花糯米丸子融合1.bdi_py_26_light_thumb.png",
+      "full": "RUAの樱花糯米丸子融合1.bdi_py_26_light_thumb.png"
     }
   ]
 }
