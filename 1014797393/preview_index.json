@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-26T08:29:44+00:00",
+  "updated_at": "2026-06-26T08:30:38+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -152,6 +152,12 @@
       "file": "RUAの樱花糯米丸子更新_compressed.bds",
       "thumb": "RUAの樱花糯米丸子更新_compressed.bds_py_26_light_thumb.png",
       "full": "RUAの樱花糯米丸子更新_compressed.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの少女梦境",
+      "file": "RUAの1少女梦境2更新_compressed.bds",
+      "thumb": "RUAの1少女梦境2更新_compressed.bds_py_26_light_thumb.png",
+      "full": "RUAの1少女梦境2更新_compressed.bds_py_26_light_thumb.png"
     }
   ]
 }
