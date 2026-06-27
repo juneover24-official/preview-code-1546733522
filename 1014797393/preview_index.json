@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-27T20:25:18+00:00",
+  "updated_at": "2026-06-27T20:25:27+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -230,6 +230,12 @@
       "file": "RUAの咖啡威化饼融合.bdi",
       "thumb": "RUAの咖啡威化饼融合.bdi_py_26_light_thumb.png",
       "full": "RUAの咖啡威化饼融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの咖啡威化饼",
+      "file": "RUAの咖啡威化饼.bdi",
+      "thumb": "RUAの咖啡威化饼.bdi_py_26_light_thumb.png",
+      "full": "RUAの咖啡威化饼.bdi_py_26_light_thumb.png"
     }
   ]
 }
