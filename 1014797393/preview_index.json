@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-27T02:28:42+00:00",
+  "updated_at": "2026-06-27T02:29:38+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -218,6 +218,12 @@
       "file": "RUAの竹隐侠客一.bds",
       "thumb": "RUAの竹隐侠客一.bds_py_26_light_thumb.png",
       "full": "RUAの竹隐侠客一.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの竹隐侠客",
+      "file": "RUAの竹隐侠客二.bds",
+      "thumb": "RUAの竹隐侠客二.bds_py_26_light_thumb.png",
+      "full": "RUAの竹隐侠客二.bds_py_26_light_thumb.png"
     }
   ]
 }
