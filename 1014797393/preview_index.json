@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-29T04:02:18+00:00",
+  "updated_at": "2026-06-29T04:02:51+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -254,6 +254,12 @@
       "file": "RUAの水系慵懒日.bdi",
       "thumb": "RUAの水系慵懒日.bdi_py_26_light_thumb.png",
       "full": "RUAの水系慵懒日.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの水系慵懒日",
+      "file": "RUAの水系慵懒日.bds",
+      "thumb": "RUAの水系慵懒日.bds_py_26_light_thumb.png",
+      "full": "RUAの水系慵懒日.bds_py_26_light_thumb.png"
     }
   ]
 }
