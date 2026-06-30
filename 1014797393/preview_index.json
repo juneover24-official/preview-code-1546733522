@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-06-30T01:05:28+00:00",
+  "updated_at": "2026-06-30T07:07:31+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -272,6 +272,12 @@
       "file": "RUAの蜜桃魔法棒.bdi",
       "thumb": "RUAの蜜桃魔法棒.bdi_py_26_light_thumb.png",
       "full": "RUAの蜜桃魔法棒.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの蜜桃魔法棒",
+      "file": "RUAの蜜桃魔法棒.bds",
+      "thumb": "RUAの蜜桃魔法棒.bds_py_26_light_thumb.png",
+      "full": "RUAの蜜桃魔法棒.bds_py_26_light_thumb.png"
     }
   ]
 }
