@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-03T04:23:36+00:00",
+  "updated_at": "2026-07-03T04:24:22+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -320,6 +320,12 @@
       "file": "RUAの血红玛丽.bdi",
       "thumb": "RUAの血红玛丽.bdi_py_26_light_thumb.png",
       "full": "RUAの血红玛丽.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの血红玛丽",
+      "file": "RUAの血红玛丽.bds",
+      "thumb": "RUAの血红玛丽.bds_py_26_light_thumb.png",
+      "full": "RUAの血红玛丽.bds_py_26_light_thumb.png"
     }
   ]
 }
