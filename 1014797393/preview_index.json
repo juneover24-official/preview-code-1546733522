@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-04T06:42:14+00:00",
+  "updated_at": "2026-07-05T01:31:54+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -356,6 +356,12 @@
       "file": "RUAの绿野仙踪1.bdi",
       "thumb": "RUAの绿野仙踪1.bdi_py_26_light_thumb.png",
       "full": "RUAの绿野仙踪1.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの绿野仙踪",
+      "file": "RUAの绿野仙踪2.bds",
+      "thumb": "RUAの绿野仙踪2.bds_py_26_light_thumb.png",
+      "full": "RUAの绿野仙踪2.bds_py_26_light_thumb.png"
     }
   ]
 }
