@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-07T02:10:07+00:00",
+  "updated_at": "2026-07-07T02:19:06+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -410,6 +410,12 @@
       "file": "RUAの夏夜花火无人物闷.bds",
       "thumb": "RUAの夏夜花火无人物闷.bds_py_26_light_thumb.png",
       "full": "RUAの夏夜花火无人物闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの夏夜花火（无人物）",
+      "file": "RUAの夏夜花火无人物闷.bdi",
+      "thumb": "RUAの夏夜花火无人物闷.bdi_py_26_light_thumb.png",
+      "full": "RUAの夏夜花火无人物闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
