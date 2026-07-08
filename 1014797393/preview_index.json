@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-08T08:18:34+00:00",
+  "updated_at": "2026-07-08T08:18:43+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -488,6 +488,12 @@
       "file": "RUAの桃花灯月1.bds",
       "thumb": "RUAの桃花灯月1.bds_py_26_light_thumb.png",
       "full": "RUAの桃花灯月1.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの桃花灯月",
+      "file": "RUAの桃花灯月蝴蝶顶2.bds",
+      "thumb": "RUAの桃花灯月蝴蝶顶2.bds_py_26_light_thumb.png",
+      "full": "RUAの桃花灯月蝴蝶顶2.bds_py_26_light_thumb.png"
     }
   ]
 }
