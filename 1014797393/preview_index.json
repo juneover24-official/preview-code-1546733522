@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-09T03:24:16+00:00",
+  "updated_at": "2026-07-09T03:24:21+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -506,6 +506,12 @@
       "file": "RUAの血液人偶.bdi",
       "thumb": "RUAの血液人偶.bdi_py_26_light_thumb.png",
       "full": "RUAの血液人偶.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの血液人偶",
+      "file": "RUAの血液人偶融合.bdi",
+      "thumb": "RUAの血液人偶融合.bdi_py_26_light_thumb.png",
+      "full": "RUAの血液人偶融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
