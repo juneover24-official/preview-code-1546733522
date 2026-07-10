@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-10T22:06:26+00:00",
+  "updated_at": "2026-07-10T22:06:37+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -524,6 +524,12 @@
       "file": "RUAの不要补习.bdi",
       "thumb": "RUAの不要补习.bdi_py_26_light_thumb.png",
       "full": "RUAの不要补习.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの不要补习",
+      "file": "RUAの不要补习.bds",
+      "thumb": "RUAの不要补习.bds_py_26_light_thumb.png",
+      "full": "RUAの不要补习.bds_py_26_light_thumb.png"
     }
   ]
 }
