@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-11T22:41:49+00:00",
+  "updated_at": "2026-07-11T22:41:57+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -572,6 +572,12 @@
       "file": "RUAの鼻嘎一日店长闷融合.bdi",
       "thumb": "RUAの鼻嘎一日店长闷融合.bdi_py_26_light_thumb.png",
       "full": "RUAの鼻嘎一日店长闷融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの鼻嘎一日店长",
+      "file": "RUAの鼻嘎一日店长闷.bds",
+      "thumb": "RUAの鼻嘎一日店长闷.bds_py_26_light_thumb.png",
+      "full": "RUAの鼻嘎一日店长闷.bds_py_26_light_thumb.png"
     }
   ]
 }
