@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-11T00:31:00+00:00",
+  "updated_at": "2026-07-11T10:02:08+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -536,6 +536,12 @@
       "file": "RUAの堀宫日常1.bds",
       "thumb": "RUAの堀宫日常1.bds_py_26_light_thumb.png",
       "full": "RUAの堀宫日常1.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの堀宫日常",
+      "file": "RUAの堀宫日常2.bdi",
+      "thumb": "RUAの堀宫日常2.bdi_py_26_light_thumb.png",
+      "full": "RUAの堀宫日常2.bdi_py_26_light_thumb.png"
     }
   ]
 }
