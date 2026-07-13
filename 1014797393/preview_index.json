@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-13T21:25:01+00:00",
+  "updated_at": "2026-07-13T21:25:10+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -614,6 +614,12 @@
       "file": "RUAの农场娃娃机搞怪音.bds",
       "thumb": "RUAの农场娃娃机搞怪音.bds_py_26_light_thumb.png",
       "full": "RUAの农场娃娃机搞怪音.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの农场娃娃机",
+      "file": "RUAの农场娃娃机脆.bds",
+      "thumb": "RUAの农场娃娃机脆.bds_py_26_light_thumb.png",
+      "full": "RUAの农场娃娃机脆.bds_py_26_light_thumb.png"
     }
   ]
 }
