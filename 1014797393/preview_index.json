@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-15T21:12:20+00:00",
+  "updated_at": "2026-07-15T21:12:27+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -656,6 +656,12 @@
       "file": "RUAの苹果熟啦.bdi",
       "thumb": "RUAの苹果熟啦.bdi_py_26_light_thumb.png",
       "full": "RUAの苹果熟啦.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの苹果熟啦",
+      "file": "RUAの苹果熟啦融合.bdi",
+      "thumb": "RUAの苹果熟啦融合.bdi_py_26_light_thumb.png",
+      "full": "RUAの苹果熟啦融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
