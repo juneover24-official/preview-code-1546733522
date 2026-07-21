@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-21T18:36:38+00:00",
+  "updated_at": "2026-07-21T18:36:48+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -788,6 +788,12 @@
       "file": "RUAの复古油画人物版.bdi",
       "thumb": "RUAの复古油画人物版.bdi_py_26_light_thumb.png",
       "full": "RUAの复古油画人物版.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの复古油画",
+      "file": "RUAの复古油画人物版融合.bdi",
+      "thumb": "RUAの复古油画人物版融合.bdi_py_26_light_thumb.png",
+      "full": "RUAの复古油画人物版融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
