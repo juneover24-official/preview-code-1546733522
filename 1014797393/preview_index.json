@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-21T22:37:33+00:00",
+  "updated_at": "2026-07-21T22:37:42+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -812,6 +812,12 @@
       "file": "RUAの电子游戏机械.bdi",
       "thumb": "RUAの电子游戏机械.bdi_py_26_light_thumb.png",
       "full": "RUAの电子游戏机械.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの电子游戏",
+      "file": "RUAの电子游戏脆.bds",
+      "thumb": "RUAの电子游戏脆.bds_py_26_light_thumb.png",
+      "full": "RUAの电子游戏脆.bds_py_26_light_thumb.png"
     }
   ]
 }
