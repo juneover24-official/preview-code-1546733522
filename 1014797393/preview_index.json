@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-25T08:06:18+00:00",
+  "updated_at": "2026-07-25T08:07:15+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -860,6 +860,12 @@
       "file": "RUAの堀宫日常2.bds",
       "thumb": "RUAの堀宫日常2.bds_py_26_light_thumb.png",
       "full": "RUAの堀宫日常2.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "RUAの恶魔宫殿21.bds",
+      "thumb": "RUAの恶魔宫殿21.bds_py_26_light_thumb.png",
+      "full": "RUAの恶魔宫殿21.bds_py_26_light_thumb.png"
     }
   ]
 }
