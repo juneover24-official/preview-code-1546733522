@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-27T19:40:22+00:00",
+  "updated_at": "2026-07-27T20:23:56+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -884,6 +884,12 @@
       "file": "RUAの香蕉奶昔.bdi",
       "thumb": "RUAの香蕉奶昔.bdi_py_26_light_thumb.png",
       "full": "RUAの香蕉奶昔.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの枷锁宫殿",
+      "file": "RUAの枷锁宫殿版本1融合.bdi",
+      "thumb": "RUAの枷锁宫殿版本1融合.bdi_py_26_light_thumb.png",
+      "full": "RUAの枷锁宫殿版本1融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
