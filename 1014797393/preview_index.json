@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-07-31T04:12:57+00:00",
+  "updated_at": "2026-07-31T04:13:07+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -932,6 +932,12 @@
       "file": "RUAの地蕾系少女融合.bdi",
       "thumb": "RUAの地蕾系少女融合.bdi_py_26_light_thumb.png",
       "full": "RUAの地蕾系少女融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの地蕾系少女",
+      "file": "RUAの地蕾系少女.bds",
+      "thumb": "RUAの地蕾系少女.bds_py_26_light_thumb.png",
+      "full": "RUAの地蕾系少女.bds_py_26_light_thumb.png"
     }
   ]
 }
