@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-08-01T20:14:19+00:00",
+  "updated_at": "2026-08-01T20:14:27+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -962,6 +962,12 @@
       "file": "RUAの休息日.bdi",
       "thumb": "RUAの休息日.bdi_py_26_light_thumb.png",
       "full": "RUAの休息日.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "RUAの休息日",
+      "file": "RUAの休息日.bds",
+      "thumb": "RUAの休息日.bds_py_26_light_thumb.png",
+      "full": "RUAの休息日.bds_py_26_light_thumb.png"
     }
   ]
 }
