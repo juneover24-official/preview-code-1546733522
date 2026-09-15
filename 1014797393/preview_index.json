@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-15T19:22:30+00:00",
+  "updated_at": "2026-09-15T19:26:39+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1031,6 +1031,13 @@
       "thumb": "RUAの冰镇矿泉水1融合.bdi_py_26_light_thumb.png",
       "full": "RUAの冰镇矿泉水1融合.bdi_py_26_light_thumb.png",
       "file_id": "76ef82493fce81179757acc637b76b6d"
+    },
+    {
+      "name": "RUAの樱花糯米丸子",
+      "file": "RUAの樱花糯米丸子更新.bds",
+      "thumb": "RUAの樱花糯米丸子更新.bds_py_26_light_thumb.png",
+      "full": "RUAの樱花糯米丸子更新.bds_py_26_light_thumb.png",
+      "file_id": "35b26b9373ac9a25a96fea775e0f3e47"
     }
   ]
 }
