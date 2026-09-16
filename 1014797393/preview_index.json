@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-16T20:01:56+00:00",
+  "updated_at": "2026-09-16T20:02:07+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1150,6 +1150,13 @@
       "thumb": "RUAの天使加载中闷闷音.bdi_py_26_light_thumb.png",
       "full": "RUAの天使加载中闷闷音.bdi_py_26_light_thumb.png",
       "file_id": "d9942c4eead31295b463d2ea46e577d2"
+    },
+    {
+      "name": "RUAの天使加载中",
+      "file": "RUAの天使加载中闷闷音.bds",
+      "thumb": "RUAの天使加载中闷闷音.bds_py_26_light_thumb.png",
+      "full": "RUAの天使加载中闷闷音.bds_py_26_light_thumb.png",
+      "file_id": "b8fa18041517e3c677a365d641362b4b"
     }
   ]
 }
