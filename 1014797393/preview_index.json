@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-16T07:44:58+00:00",
+  "updated_at": "2026-09-16T16:37:51+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1059,6 +1059,13 @@
       "thumb": "RUAの鲜榨西瓜汁1.bds_py_26_light_thumb.png",
       "full": "RUAの鲜榨西瓜汁1.bds_py_26_light_thumb.png",
       "file_id": "29c926b20f7f4e6a1702900612423a5f"
+    },
+    {
+      "name": "RUAの夏日祭你还会在吗",
+      "file": "RUAの夏日祭你还会在吗2.bdi",
+      "thumb": "RUAの夏日祭你还会在吗2.bdi_py_26_light_thumb.png",
+      "full": "RUAの夏日祭你还会在吗2.bdi_py_26_light_thumb.png",
+      "file_id": "f4679848adc0ed2353ccb4d9f41cc8ed"
     }
   ]
 }
