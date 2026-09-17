@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-16T20:02:29+00:00",
+  "updated_at": "2026-09-17T14:03:35+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1171,6 +1171,13 @@
       "thumb": "RUAの天使加载中脆脆.bdi_py_26_light_thumb.png",
       "full": "RUAの天使加载中脆脆.bdi_py_26_light_thumb.png",
       "file_id": "b6a8ba4a2a409518502556d932bb70af"
+    },
+    {
+      "name": "RUAの鼻嘎偷吃冰淇淋",
+      "file": "RUAの鼻嘎偷吃冰淇淋大动效融合.bdi",
+      "thumb": "RUAの鼻嘎偷吃冰淇淋大动效融合.bdi_py_26_light_thumb.png",
+      "full": "RUAの鼻嘎偷吃冰淇淋大动效融合.bdi_py_26_light_thumb.png",
+      "file_id": "e3ad9303c3a3c3e2cd9d243f8350354e"
     }
   ]
 }
