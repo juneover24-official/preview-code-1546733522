@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-19T12:43:40+00:00",
+  "updated_at": "2026-09-19T12:56:08+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1227,6 +1227,13 @@
       "thumb": "RUAの芒果糯米饭.bdi_py_26_light_thumb.png",
       "full": "RUAの芒果糯米饭.bdi_py_26_light_thumb.png",
       "file_id": "1799cf90b4d93f26e8ddf277930b7abc"
+    },
+    {
+      "name": "RUAの地缚少年花子君",
+      "file": "RUAの地缚少年花子君.bdi",
+      "thumb": "RUAの地缚少年花子君.bdi_py_26_light_thumb.png",
+      "full": "RUAの地缚少年花子君.bdi_py_26_light_thumb.png",
+      "file_id": "58cd16cee14d2b6b1ad837b6ae0e3714"
     }
   ]
 }
