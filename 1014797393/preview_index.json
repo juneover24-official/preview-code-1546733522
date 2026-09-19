@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-18T03:42:31+00:00",
+  "updated_at": "2026-09-19T12:42:06+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1185,6 +1185,13 @@
       "thumb": "RUAの鲜榨西瓜汁2.bds_py_26_light_thumb.png",
       "full": "RUAの鲜榨西瓜汁2.bds_py_26_light_thumb.png",
       "file_id": "c60beaf3979ef6a4bb0236f8916d2c25"
+    },
+    {
+      "name": "RUAの芒果糯米饭（人物版）",
+      "file": "RUAの芒果糯米饭人物.bds",
+      "thumb": "RUAの芒果糯米饭人物.bds_py_26_light_thumb.png",
+      "full": "RUAの芒果糯米饭人物.bds_py_26_light_thumb.png",
+      "file_id": "0ff7f24933616e6d07a909924da3d702"
     }
   ]
 }
