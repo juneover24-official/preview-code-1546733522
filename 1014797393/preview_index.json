@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-24T01:36:42+00:00",
+  "updated_at": "2026-09-24T01:36:52+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1290,6 +1290,13 @@
       "thumb": "RUAの五彩冰淇淋2融合.bdi_py_26_light_thumb.png",
       "full": "RUAの五彩冰淇淋2融合.bdi_py_26_light_thumb.png",
       "file_id": "2fbfe6675a24b0b75f1b1b8756af9e52"
+    },
+    {
+      "name": "RUAの五彩冰淇淋",
+      "file": "RUAの五彩冰淇淋1.bds",
+      "thumb": "RUAの五彩冰淇淋1.bds_py_26_light_thumb.png",
+      "full": "RUAの五彩冰淇淋1.bds_py_26_light_thumb.png",
+      "file_id": "49f1df3180f6d95b8748ea0a8a578efe"
     }
   ]
 }
