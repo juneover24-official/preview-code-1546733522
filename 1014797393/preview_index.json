@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-26T23:18:16+00:00",
+  "updated_at": "2026-09-26T23:18:39+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1346,6 +1346,13 @@
       "thumb": "RUAの提拉米苏融合.bdi_py_26_light_thumb.png",
       "full": "RUAの提拉米苏融合.bdi_py_26_light_thumb.png",
       "file_id": "fabe18b4edf396d420f74b3ff5c89ffb"
+    },
+    {
+      "name": "RUAの提拉米苏",
+      "file": "RUAの提拉米苏.bdi",
+      "thumb": "RUAの提拉米苏.bdi_py_26_light_thumb.png",
+      "full": "RUAの提拉米苏.bdi_py_26_light_thumb.png",
+      "file_id": "393b20c1b14ee46abc70a91b01c1b12a"
     }
   ]
 }
