@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-27T10:47:23+00:00",
+  "updated_at": "2026-09-27T10:48:05+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1388,6 +1388,13 @@
       "thumb": "RUAの黑巧冰淇淋脆融合.bdi_py_26_light_thumb.png",
       "full": "RUAの黑巧冰淇淋脆融合.bdi_py_26_light_thumb.png",
       "file_id": "cf95e271f2a0cc6b99f5e0a5f6856b9b"
+    },
+    {
+      "name": "RUAの夏日青苹果",
+      "file": "RUAの夏日青苹果融合大动效.bdi",
+      "thumb": "RUAの夏日青苹果融合大动效.bdi_py_26_light_thumb.png",
+      "full": "RUAの夏日青苹果融合大动效.bdi_py_26_light_thumb.png",
+      "file_id": "62c44e5e3ad1ad95f7bf69fb28a42d39"
     }
   ]
 }
