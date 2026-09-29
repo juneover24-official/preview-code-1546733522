@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-09-29T04:04:53+00:00",
+  "updated_at": "2026-09-29T04:05:18+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1444,6 +1444,13 @@
       "thumb": "RUAの草莓牛乳茶闷.bdi_py_26_light_thumb.png",
       "full": "RUAの草莓牛乳茶闷.bdi_py_26_light_thumb.png",
       "file_id": "dd0471bcda2e341e1eb5f2b9e1d2a3e2"
+    },
+    {
+      "name": "RUAの草莓牛乳茶",
+      "file": "RUAの草莓牛乳茶脆.bdi",
+      "thumb": "RUAの草莓牛乳茶脆.bdi_py_26_light_thumb.png",
+      "full": "RUAの草莓牛乳茶脆.bdi_py_26_light_thumb.png",
+      "file_id": "2a6c24a06b0a492b9f31570878283c8a"
     }
   ]
 }
