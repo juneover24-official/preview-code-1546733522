@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-10-01T11:35:27+00:00",
+  "updated_at": "2026-10-01T21:03:09+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1472,6 +1472,13 @@
       "thumb": "RUAの直播进行中1.bds_py_26_light_thumb.png",
       "full": "RUAの直播进行中1.bds_py_26_light_thumb.png",
       "file_id": "447d7c26ef469653fcdc9c893fbfdc7c"
+    },
+    {
+      "name": "RUAの面包小猫喵喵",
+      "file": "RUAの面包小猫喵喵闷.bds",
+      "thumb": "RUAの面包小猫喵喵闷.bds_py_26_light_thumb.png",
+      "full": "RUAの面包小猫喵喵闷.bds_py_26_light_thumb.png",
+      "file_id": "ff24e0997f42a3a8b04cea48a01e5376"
     }
   ]
 }
