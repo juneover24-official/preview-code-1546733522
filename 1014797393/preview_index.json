@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-10-03T10:57:09+00:00",
+  "updated_at": "2026-10-03T10:58:34+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1528,6 +1528,13 @@
       "thumb": "RUAの蛋糕店开业啦.bds_py_26_light_thumb.png",
       "full": "RUAの蛋糕店开业啦.bds_py_26_light_thumb.png",
       "file_id": "484bf12216b94f64325e1c7d21371ec1"
+    },
+    {
+      "name": "RUAの鬼咒血器",
+      "file": "RUAの鬼咒血器1.bds",
+      "thumb": "RUAの鬼咒血器1.bds_py_26_light_thumb.png",
+      "full": "RUAの鬼咒血器1.bds_py_26_light_thumb.png",
+      "file_id": "7a354e5d72af80c81e3524ed3678c789"
     }
   ]
 }
