@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-10-04T01:50:37+00:00",
+  "updated_at": "2026-10-04T01:50:45+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1542,6 +1542,13 @@
       "thumb": "RUAの软萌正太喵2.bds_py_26_light_thumb.png",
       "full": "RUAの软萌正太喵2.bds_py_26_light_thumb.png",
       "file_id": "472a15bf27b5d48c810b6fc8ffc7ef40"
+    },
+    {
+      "name": "RUAの软萌正太喵",
+      "file": "RUAの软萌正太喵1.bdi",
+      "thumb": "RUAの软萌正太喵1.bdi_py_26_light_thumb.png",
+      "full": "RUAの软萌正太喵1.bdi_py_26_light_thumb.png",
+      "file_id": "734e46e5fedfd2f4237b63e63c52ad75"
     }
   ]
 }
