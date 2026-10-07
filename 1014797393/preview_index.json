@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-10-07T11:41:31+00:00",
+  "updated_at": "2026-10-07T11:42:00+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1615,6 +1615,13 @@
       "thumb": "RUAの夏日青苹果.bds_py_26_light_thumb.png",
       "full": "RUAの夏日青苹果.bds_py_26_light_thumb.png",
       "file_id": "6c178906e8d2a8190049e9c133cd8396"
+    },
+    {
+      "name": "RUAの魔鬼恋人",
+      "file": "RUAの魔鬼恋人1.bds",
+      "thumb": "RUAの魔鬼恋人1.bds_py_26_light_thumb.png",
+      "full": "RUAの魔鬼恋人1.bds_py_26_light_thumb.png",
+      "file_id": "f3e9f7b88ba790edc6debae6eebc66df"
     }
   ]
 }
