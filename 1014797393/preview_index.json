@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-11-01T09:13:06+00:00",
+  "updated_at": "2026-11-01T09:14:30+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1636,6 +1636,13 @@
       "thumb": "RUAの快餐店请取餐.bdi_py_26_light_thumb.png",
       "full": "RUAの快餐店请取餐.bdi_py_26_light_thumb.png",
       "file_id": "1cc34ed5cfd6ec597545fe2951b8de66"
+    },
+    {
+      "name": "RUAの奶嘴小猪",
+      "file": "RUAの奶嘴小猪可爱.bds",
+      "thumb": "RUAの奶嘴小猪可爱.bds_py_26_light_thumb.png",
+      "full": "RUAの奶嘴小猪可爱.bds_py_26_light_thumb.png",
+      "file_id": "faab8c603ee24cb484b99fde582f3ff3"
     }
   ]
 }
