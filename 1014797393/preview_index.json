@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-11-20T07:28:28+00:00",
+  "updated_at": "2026-11-20T07:28:52+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1698,6 +1698,13 @@
       "thumb": "RUAの鼠鼠我要鼠辽闷闷.bds_py_26_light_thumb.png",
       "full": "RUAの鼠鼠我要鼠辽闷闷.bds_py_26_light_thumb.png",
       "file_id": "def211067fa44f31203999cc5b613793"
+    },
+    {
+      "name": "RUAの鼠鼠我要鼠辽",
+      "file": "RUAの鼠鼠我要鼠辽可爱脆融合.bdi",
+      "thumb": "RUAの鼠鼠我要鼠辽可爱脆融合.bdi_py_26_light_thumb.png",
+      "full": "RUAの鼠鼠我要鼠辽可爱脆融合.bdi_py_26_light_thumb.png",
+      "file_id": "75064baedc685eaf693abbfca87c6f6c"
     }
   ]
 }
