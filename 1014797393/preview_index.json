@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-11-20T13:04:40+00:00",
+  "updated_at": "2026-11-20T23:37:36+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1740,6 +1740,13 @@
       "thumb": "RUAの橘子汽水脆脆融合.bdi_py_26_light_thumb.png",
       "full": "RUAの橘子汽水脆脆融合.bdi_py_26_light_thumb.png",
       "file_id": "32d1adcf31d4f2fc64c5ae1ef9a1a590"
+    },
+    {
+      "name": "RUAの抹茶下午茶",
+      "file": "RUAの抹茶下午茶2.bds",
+      "thumb": "RUAの抹茶下午茶2.bds_py_26_light_thumb.png",
+      "full": "RUAの抹茶下午茶2.bds_py_26_light_thumb.png",
+      "file_id": "f856561a32f2dafd564e292db05bf701"
     }
   ]
 }
