@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-11-20T23:37:36+00:00",
+  "updated_at": "2026-11-26T06:34:47+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1747,6 +1747,12 @@
       "thumb": "RUAの抹茶下午茶2.bds_py_26_light_thumb.png",
       "full": "RUAの抹茶下午茶2.bds_py_26_light_thumb.png",
       "file_id": "f856561a32f2dafd564e292db05bf701"
+    },
+    {
+      "name": "RUAの成就达成中",
+      "file": "RUAの成就达成中闷闷.bds",
+      "thumb": "RUAの成就达成中闷闷.bds_py_26_light_thumb.png",
+      "full": "RUAの成就达成中闷闷.bds_py_26_light_thumb.png"
     }
   ]
 }
