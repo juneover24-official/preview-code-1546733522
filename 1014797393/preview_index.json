@@ -1,7 +1,7 @@
 {
   "qq_number": "1546733522",
   "group_number": "1014797393",
-  "updated_at": "2026-11-26T06:36:13+00:00",
+  "updated_at": "2026-11-26T07:01:24+00:00",
   "skins": [
     {
       "name": "RUAの粉黛花宴小漂浮",
@@ -1766,6 +1766,13 @@
       "thumb": "RUAの成就达成中脆脆.bds_py_26_light_thumb.png",
       "full": "RUAの成就达成中脆脆.bds_py_26_light_thumb.png",
       "file_id": "ea3bc5abb8440f7ab1d6d81bdde5138a"
+    },
+    {
+      "name": "RUAのMONSTER",
+      "file": "RUAのMONSTER闷.bds",
+      "thumb": "RUAのMONSTER闷.bds_py_26_light_thumb.png",
+      "full": "RUAのMONSTER闷.bds_py_26_light_thumb.png",
+      "file_id": "634a5933b42a146ebbd34d1439a5837e"
     }
   ]
 }
